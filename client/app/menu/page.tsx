@@ -6,9 +6,9 @@ import { menuSections } from "@/lib/data";
 
 export default function MenuPage() {
   return (
-    <div className="md:pt-24">
+    <div className="pt-24">
       <section className="parallax-panel mx-auto grid max-w-7xl gap-12 px-6 py-10 md:px-10 lg:grid-cols-[0.95fr_1.05fr]">
-        <div className="sticky top-28 h-fit space-y-8">
+        <div className="space-y-8 lg:sticky lg:top-28 lg:h-fit">
           <div>
             <p className="text-xs uppercase tracking-[0.35em] text-[var(--accent-sage)]">
               Menu
