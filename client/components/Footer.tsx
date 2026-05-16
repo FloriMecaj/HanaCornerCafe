@@ -57,7 +57,7 @@ export default function Footer() {
           </div>
           <div className="space-y-2 text-sm text-[rgba(245,240,232,0.62)]">
             <p>{cafe.hoursLabel}</p>
-            <p>Cash only</p>
+            <p>Outdoor seating available</p>
           </div>
         </div>
 

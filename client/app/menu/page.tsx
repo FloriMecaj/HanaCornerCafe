@@ -44,14 +44,13 @@ export default function MenuPage() {
 
           <div className="rounded-[2rem] border border-[rgba(196,113,74,0.4)] bg-[rgba(196,113,74,0.12)] p-6 shadow-card">
             <p className="text-xs uppercase tracking-[0.3em] text-[var(--accent-terracotta)]">
-              Friendly reminder
+              House highlight
             </p>
             <h2 className="mt-3 font-serif text-3xl text-[var(--accent-espresso)]">
-              Cash Only
+              Outdoor Seating
             </h2>
             <p className="mt-3 text-sm leading-relaxed text-[var(--text-muted)]">
-              Bring cash for brunch, coffee, and dessert. The room is relaxed,
-              the payment method is simple.
+              Find a quiet corner outside for brunch, people-watching, and a second coffee in the afternoon light.
             </p>
           </div>
         </div>

@@ -225,7 +225,7 @@ export default function HomePage() {
                 <Wallet className="mt-1 text-[var(--accent-terracotta)]" size={18} />
                 <div>
                   <p className="text-sm uppercase tracking-[0.2em] text-[var(--text-muted)]">Payment</p>
-                  <p className="mt-2 text-sm leading-relaxed text-[var(--accent-espresso)]">Cash only. Please bring cash with you.</p>
+                  <p className="mt-2 text-sm leading-relaxed text-[var(--accent-espresso)]">Open daily and ideal for long brunches, second coffees, and late catch-ups.</p>
                 </div>
               </div>
             </div>

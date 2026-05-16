@@ -60,9 +60,9 @@ export const highlights = [
     icon: Music4,
   },
   {
-    title: "Cash only",
+    title: "Open late",
     description:
-      "Clear and friendly reminders across the site so nobody is surprised at checkout.",
+      "An easy all-day pace with evenings that stay social right up to closing.",
     icon: Bean,
   },
 ];

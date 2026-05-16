@@ -24,7 +24,7 @@ export default function ContactPage() {
           <p className="text-xs uppercase tracking-[0.35em] text-[var(--accent-sage)]">Contact</p>
           <h1 className="mt-4 font-serif text-[clamp(3rem,6vw,5.4rem)] leading-none text-[var(--accent-espresso)]">Reach out for reservations, events, or a simple hello.</h1>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-[var(--text-muted)]">
-            The café works for brunches, casual meetings, and upstairs gatherings. Send a note and keep the cash-only reminder in mind.
+            The café works for brunches, casual meetings, and upstairs gatherings. Use the details below to find your way in or get in touch.
           </p>
 
           <div className="mt-10 grid gap-5 sm:grid-cols-2">
@@ -38,9 +38,9 @@ export default function ContactPage() {
             </div>
 
             <div className="rounded-[2rem] border border-[rgba(196,113,74,0.4)] bg-[rgba(196,113,74,0.12)] p-6 shadow-card">
-              <p className="text-xs uppercase tracking-[0.3em] text-[var(--accent-terracotta)]">Payment note</p>
-              <p className="mt-4 font-serif text-3xl text-[var(--accent-espresso)]">Cash only</p>
-              <p className="mt-2 text-sm text-[var(--text-muted)]">Bring cash for food, drinks, and dessert.</p>
+              <p className="text-xs uppercase tracking-[0.3em] text-[var(--accent-terracotta)]">Cafe mood</p>
+              <p className="mt-4 font-serif text-3xl text-[var(--accent-espresso)]">Outdoor tables</p>
+              <p className="mt-2 text-sm text-[var(--text-muted)]">A bright corner for brunch, coffee, and easy people-watching in Tirana.</p>
             </div>
           </div>
 
@@ -106,7 +106,7 @@ export default function ContactPage() {
               <div className="mt-5 grid gap-3 text-sm leading-relaxed text-[var(--text-muted)]">
                 <p>Outdoor seating makes it easy to linger over brunch or a second coffee.</p>
                 <p>The café is popular with tourists and expats, especially later in the day.</p>
-                <p>Cash only is worth remembering before you arrive.</p>
+                <p>Great music helps the room feel relaxed from late morning into the evening.</p>
               </div>
             </div>
           </div>
