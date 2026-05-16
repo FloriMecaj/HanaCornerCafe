@@ -18,8 +18,8 @@ export default function CustomCursor() {
   useEffect(() => {
     const timer = window.setInterval(() => {
       setRing((current) => ({
-        x: current.x + (dot.x - current.x) * 0.18,
-        y: current.y + (dot.y - current.y) * 0.18
+        x: current.x + (dot.x - current.x) * 0.34,
+        y: current.y + (dot.y - current.y) * 0.34
       }));
     }, 16);
 
